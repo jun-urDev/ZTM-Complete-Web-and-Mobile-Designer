@@ -1,0 +1,35 @@
+Designer Role
+    - understand client's needs and create design based on them.
+
+Phases of building a product:
+1 Planning Phase
+    - Decide and map a product's entire look, feel and use.
+    - involves a lot of interaction with client.
+2 Design Phase
+    - use information from planning phase
+        - create visual representation - site/mobile structure.
+        - figure out the functions needed in the product.
+3 Development Phase
+    - use information from design phase
+        - implement the design and functions from design phase using programming.
+4 Launch Phase
+    - deliver product to users.
+        - design tweaks and testing
+5 Post Launch Phase
+    - hand product to client
+        - monitor product - user experience and issues.
+6 Repeat process from Planning Phase
+
+Designer vs. Developer
+Designer
+    - focus on aesthetics and user experience.
+    - heavily involved with planning, design and post launch phases.
+Developer
+    - focus on internals and how a product works.
+    - heavily involved with development, launch and post launch phases.
+
+Key Elements for Design
+Graphic Design - visuals which conveys a story and feeling using color, typography and imagery.
+User Experience - art and science of providing users best possible experience in a product's flow.
+Goal Conversion - drive result of client's want - motivate users to take a desired action.
+Platform Development - Understand of how a platform work.
