@@ -1,0 +1,41 @@
+Sketching is a two step process:
+    Idea Generation (Generate and Sketch)
+        - generate as many ideas and approaches to the problem then decide which to go for.
+    Add Detail and Refinement
+        - refine sketches and add details
+
+Idea - Wireframe - Components
+
+Step 1:
+    Prepare tools beforehand.
+    Think of goals.
+    Think of audience.
+    Time Yourself.
+
+Step 2:
+    Draw a frame for your device.
+    Start with basic/simple and redundant elements like headers and footers.
+    Move onto more detailed interactions using basic shapes.
+    Annotate your sketches and keep them safe.
+    Keep going - find sketches you like and have potential then work on it.
+    Share your sketches for feedbacks.
+
+Step 3:
+    Add titles to sketches to help determine relevant ones.
+    Add anotations - explain purpose and clarify things.
+    Use numbers to show flow.
+    Use arrows to show transitions.
+    Add gestures to show interaction with user.
+
+Sketching User Flows
+    - process/flow
+    - micro interactions
+    - navigation tree
+
+Sketching Tips:
+    - Don't worry about being messy. Sketch everything and refine later.
+    - Take it as building blocks. Use basic shapes.
+    - Store sketches in a safe place.
+    - Always be prepared. Ideas can come anytime.
+    - Keep your sketches in your view to remind you. 
+    - Communicate. You can get valuable feedback from anyone.
