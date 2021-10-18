@@ -1,0 +1,36 @@
+User Flow
+    - User flow is the path taken by a prototypical user on a website or app to complete a task. The user flow takes them from their entry point through a set of steps towards a successful outcome and final action, such as purchasing a product.
+    - series of steps a user take to achieve a meaningful goal.
+    - used to communicate the intended flow of the user through various pages and actions.
+    - Should include:
+        name, steps, user and description of what happens at next step.
+
+Role of user flow in web and app design
+    - The user flow is the basis for content requirements on webpages or app screens. Beginning with an understanding of user needs helps the product team build a user flow and experience that is designed to meet those needs.
+
+    For each user flow, the questions you need to consider are:
+        a. What is the user trying to accomplish?
+        b. What is important to the user and what will give them confidence to continue?
+        c. What additional information will the user need to accomplish the task?
+        d. What are the user’s hesitations or barriers to accomplishing the task?
+
+    - The answers to those questions will inform how you design the pages, and determine what content and navigational links to include. If a user’s primary goal is to browse various items, your page or screen will offer a different design and functionality than it would have if their primary goal is to purchase a product and move on.
+
+    - Because there are many different paths that users can take, user flows are often modeled as flow charts with nodes for each of the major navigational paths. The purpose of user flow analysis is to identify the main user flows through your app or website, and identify areas where the navigational flow can be improved.
+
+Step 1: 
+    Name/Title = purpose of user flow.
+        - your title describes the purpose of the flow and the user's goal.
+Step 2:
+    - user flow should go in 1 direction and make it simple.
+Step 3:
+    - describe each of your steps.
+    - scope of each flow should be a single task or goal for a user.
+
+Do's and Don't
+    - Don't be vague, Make you title descriptive.
+    - Don't create flow maps to represent a user flow, Create distinct flows.
+    - Flow should represent a complete task, it should provide the right amount of details.
+
+Speed up Workflow with Components
+    - create components and make instances to use for user flows.
