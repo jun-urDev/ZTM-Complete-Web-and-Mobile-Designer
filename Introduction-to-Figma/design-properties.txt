@@ -1,0 +1,124 @@
+Design Tab
+    - allows view, add, remove or change properties of objects within your design.
+
+Alignment
+    - allow you to arrange layers on the canvas in relation to one another. Figma will determine your layer's alignment based on your specific selection.
+        Select one object or layer
+            - Figma will align the layer to its parent. This could be a group, frame, or the containing frame of a component.
+        Select multiple layers
+            - Figma will align layers in relation to each other.
+
+Distribution
+    - create equal space between layers in a selection. You must have more than one layer or object selected.
+    - When using distribute, Figma will retain the position of the outermost objects or layers:
+
+        Distribute horizontal spacing
+            - both the objects or layers on the outer left and outer right will maintain their position.
+        Distribute vertical spacing
+            - both the top and bottom objects or layers will maintain their position.
+
+Tidy Up
+    - quickly align layers on one-dimension as rows or columns, or combine rows and columns to create two dimensional layouts.
+
+        One dimensional selections
+            - For a selection on either the horizontal or vertical axis (one dimension), Figma will arrange objects based on the axis they overlap on.
+            - Objects on the x axis will have only their horizontal spacing adjusted and objects on the y axis will have only their vertical spacing adjusted.
+            - Figma will use the most common spacing in the selection to set the Space between value.
+        Two dimensional selections
+            - When using tidy up on objects in two dimensions, like a grid, the tidy up process is much stricter. Figma will adjust both the vertical and horizontal spacing between objects.
+            - The vertical and horizontal spacing will depend on their starting position and can be the same or unique. Once Figma tidies up the layers, you can adjust the vertical and horizontal spacing.
+            - Unlike distribute, which repositions objects within the original selection's bounds, tidy up arranges all objects into a grid that aligns with the top-left corner of your selection.
+
+Position
+    - adjust the position of layers in the canvas along any of the two dimensions or axes: horizontal (X axis) and vertical (Y axis).
+
+        Nudge Layers
+            - Use your arrow keys to nudge the position of your layers. Figma allows you to set two default nudge amounts: small nudge and big nudge.
+            - By default, small nudge is set to 1 and big nudge set to 10. Both of these values are in resolution-independent points.
+            - Use the arrow keys to nudge your selection. The arrow keys will use your small nudge settings, hold down Shift to use the big nudge settings instead.
+
+Dimensions 
+    Select a layer to make changes to a layer's dimensions. There are then a few methods:
+        - To adjust the width of a layer: hover over the layer's left or right bounds until the (double headed arrow) appears. Click and drag to resize.
+        - To adjust the height of a layer: hover over the layer's top or bottom bounds until the (double headed arrow) appears. Click and drag to resize.
+        - To adjust both the width and height of a layer: hover over any corner of the layer's bounds until the (double headed arrow) appears. Click and drag to resize.
+        - Adjust both the W and H fields in the right sidebar.
+
+        Constrain proportions
+            - allows you to constrain the dimensions of the layer to the current proportion. You can find this setting next to the dimension settings (W and H) in the right sidebar.
+            - When this setting is on, Figma will retain the original width to height ratio anytime you resize the layer in the sidebar. If you update either of the W and H fields, Figma will update the other accordingly.
+
+Rotation
+    - Rotate individual layers, like objects, frames and groups, or a selection of layer. Figma will use the horizontal and vertical center of your selection as the point of rotation.
+
+        Every layer you add to the canvas will have a default rotation of 0°. You can rotate your selection 180° in each direction:
+            - A positive angle goes counterclockwise towards 180°
+            - A negative angle goes clockwise towards -180°
+
+        Right Sidebar
+            - Find the rotation field at the top of the Design panel in the right sidebar.
+                1. Select the layer(s) or object(s) you want to rotate.
+                2. In the right sidebar, use the rotation field to enter your desired rotation.
+
+        Canvas
+            1. Hover just outside one of the layer's bounds until the (bent arrow head) icon appears.
+            2. Click and drag to rotate your selection
+            3. Hold down Shift to snap rotation values to increments of 15.
+
+Flip Layers 
+    - Another way to replicate rotating layers is to use the Flip horizontal and Flip vertical transformations.
+
+        Use the right-click menu to apply a flip transformation, or the keyboard shortcuts:
+            - Flip horizontal: (Shift + H)
+            - Flip vertical: (Shift + V)
+
+Adjust Values 
+    Equations
+        - Some fields in Figma accept equations, this includes the position, dimension, and rotation fields.
+        - You can use equations to resize layers by adding +, subtracting -, multiplying *, or dividing / the existing value. You can also use brackets ( ) within the field for more complex equations, or ^ for creating exponents.
+
+    Scrub Fields 
+        - Scrubbing allows you to quickly adjust a field's value by dragging your active mouse or touchpad.
+
+            You can use this for position, dimensions, and rotation fields, as well as other layer properties and settings in the right sidebar.
+                - Hover over the label next to the input field until the scrubbing cursor appears. You can also hover the input field itself and hold down the modifier key (Alt)
+
+Layer (Blend Modes)
+    - allow you to define how you want two layers to blend together. This involves taking the pixels from each layer and applying calculations to them.
+    - This allows you to adjust aspects of an image, like the background color. Or, create interesting overlays and textures.
+    - You can adjust the Blend mode of an entire layer, or an individual fill. You can only apply one blend mode to each layer or Fill.
+
+        Apply a blend mode to an entire layer in the Layer section of the Properties Panel.
+            - In the Layer section of the Properties Panel, click on the blend mode field. This will be set to Pass through by default.
+
+Paints
+    - Paints can be colors, gradients, or images. In Figma, you can use the Color picker to apply paints to Fills and Strokes.
+
+    Paint Types:
+        1. Solid - a solid color or paint.
+        2. Gradients
+            a. Linear (gradient): a progressive transition between two colors on a straight line. You can choose the angle of the line.
+            b. Radial (gradient): a circular gradient that has a color at the center which transitions to another color on the edge. This could be another color, or a fade to transparent.
+            c. Diamond (gradient): a gradient with four points that starts in the center of the object or layer. You can adjust the width and height of the gradient individually.
+            d. Angular (gradient): creates a gradient clockwise from the starting position. You can adjust the location of both colors in the gradient to create a softer or harsher angle.
+
+Fill
+    - The paints used to fill the area of the shape.
+
+    There are 4 main sections to notice on the Color panel.
+        1. Color Value: You can input any #hex color values into the input field. Or you can click on the color icon to open the color palette to select colors manually.
+        2. Transparency: You can increase/decrease the transparency of your shape by increasing/decreasing the percentage. 100% transparency means the shape is fully visible, and 0% means it is fully invisible.
+        3. Activate/deactivate Fill: You can activate/deactivate your fill color by clicking the Eye icon next to the transparency value. Clicking on the Minus (-) icon will remove the fill, and clicking on the Plus (+) icon will add another fill on top of the current fill color.
+        4. Color Style: You can save any color as a Style by clicking the four dots ': :' icon, and reuse it for your next design. We talk more about Color Styles in our Color Styles in Figma chapter.
+
+Stroke
+    - a collection of properties you can apply to a vector object. You can think of Stroke as a visual representation of a vector path.
+
+    Apply stroke properties to any vector object to:
+        - Create lines and arrows
+        - Create outlines around shapes, vector networks, or boolean operations
+        - Add borders to frames and images
+
+Export
+    - Export your designs from Figma when you're ready to share them with the world.
+    - Export settings let you to customize how Figma exports your assets. This allows you to define what you want to export and how you want to export it.

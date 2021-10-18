@@ -1,0 +1,16 @@
+Prototype
+    - The Prototype tab gives you access to all the prototyping functionality.
+    - This allows you to establish connections between frames in your design. You can then apply transitions that simulate how a user might interact with them.
+
+    The Prototype tab consists of five sections:
+        1. Choose an Interaction
+            - Allows you to define the Trigger, Action and Destination for any Interactions.
+        2. Apply an Animation
+            - Allows you to define the Transition that moves the users between Frames. You can also adjust the Direction, Easing, Duration and Smart Animation.
+        3. Customize an Overlay
+            - Allows you to create tool-tips, interactive menus, alerts or confirmations.
+        4. Define the Overflow Behavior
+            - Allows you to define how your prototype responds to scrolling. This allows you to create more advanced user interactions e.g. carousels, galleries or interactive maps.
+        5. Adjust the Prototype Settings
+            - Allows you to adjust the Device, Background, and Starting point of your prototype.
+

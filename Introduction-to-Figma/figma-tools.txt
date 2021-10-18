@@ -1,0 +1,43 @@
+Figma Tools (Shortcut)
+    Move Tools
+        Move (V) - used to move elements around (shift + click item) to click multiple elements
+        Scale (K) - used to resize layers while retaining scaling
+    
+    Region Tools
+        Frame (F) - canvas/group with predetermined width and height.
+        Slice (S) - used to export a specific are of a screen.
+
+    Shape Tools
+        Rectangle (R) - create rectangle (Hold Shift for square)
+        Line (L) - create line
+        Arrow (Shift + L) - create arrow
+        Ellipse (O) - create ellipse (Hold Shift for perfect circle)
+        Polygon - create polygons
+        Star - create star (Hold Shift for perfect star)
+        Images (Ctrl + SHift + K) - upload image
+
+    Drawing Tools
+        Pen (P) - used to draw vectors
+        Pencil (Shift + P) - used to draw however you like
+
+    Text (T)
+        - create input field for text
+
+    Hand Tool (H) or (hold space + mouse drag)
+        - used to move around the canvas
+
+    Add Comment (C)
+        - create input field for comment
+
+    Copy (Ctrl + C)
+        - copy elements
+        - (hold alt + drag item) 
+
+    Undo (Ctrl + Z)
+        - undo last activity
+
+    Highlight all (trl + A)
+        - select all elements
+
+    Zoom (Ctrl + Mouse wheel)
+        - Zoom in and out of the canvas

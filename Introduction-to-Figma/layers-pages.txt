@@ -1,0 +1,21 @@
+Pages Panel
+    - provide extra layer of organizational control.
+    - create separate document for other works within the same figma file.
+
+Layers Panel
+    - contains all the Frame, Group, Component, Instance, Text Object, Shape, Image or animated GIF.
+    - layers are stacked on top of each other.
+
+    Change Layer Order
+        There are a few ways to adjust a layer's order.
+            1. Click and drag the layer to change it's position in the layer hierarchy.
+            2. Shortcuts:
+                Bring Forward: (Ctrl + ])
+                Bring Front: (Ctrl + Shift + ])
+                Send Backward: (Ctrl + ])
+                Send Back: (Ctrl + Shift + [)
+            3. Right-click on the selection to open the context menu.
+
+Assets
+    - storage for components.
+    - components are aspects of design that can be reused.
