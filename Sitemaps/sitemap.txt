@@ -1,0 +1,43 @@
+What is a sitemap?
+    - Sitemaps are a hierarchical diagram showing the structure of a website or application. 
+    - They are used by User Experience Designers and Information Architects to define the taxonomy through grouping of related content. 
+    - They are an important step of the user centred process as they ensure content is in places users would expect to find it. 
+    - They can also be used as a reference point for wireframes, functional specifications and content maps.
+
+Why should I use a sitemap?
+    - help strategically place content where users can find it. It results in the creation of your navigation and hierarchies of your product.
+    - They show how the navigation should be structured
+    - They help identify where content will sit and what needs to be produced
+    - They help show the relationship between different pages
+    - They provide a structure upon which to begin estimates for development
+    - They are the first tangible deliverable showing what you will be creating
+
+When do I create a sitemap?
+    - Sitemaps are normally produced after you have completed your persona and user journey work, and after you have completed your initial discovery period. They visualise what you have learnt about how users will navigate the site, what sort of content they will need to support them in their goals and what sort of language they use to identify things. In addition, it is should also take into account the business objectives and any content which is required by the business to fulfil their overall strategy.
+
+        Persona 
+            - is a representation of a particular audience segment for a website / product / service you are designing, based on various types of qualitative and quantitative research. It captures a person’s motivations, frustrations and the “essence” of who they are.
+        User Journey 
+            -  is a series of steps (typically 4-12) which represent a scenario in which a user might interact with the thing you are designing. They can be used for 2 main things:
+                a. Demonstrating the way users currently interact with the service / website / product
+                b. Demonstrating the way users could interact with the service / website / product
+
+What should a sitemap contain?
+    - The sitemap you ultimately create needs to have a few key attributes:
+        a. A homepage/home screen item at the top
+        b. A reference number for each item in the sitemap (This helps when creating wireframes or functional specifications)
+        c. A label for each item in the site map
+
+Sitemap Types:
+    Flat Sitemap
+        - for smaller/medium size products (approx 10-100 pages)
+    Deep Sitemap
+        - for large sized products (over 100's of pages)
+
+Tips to get Started:
+    - Don't worry about the user flows, focus on the sitemap.
+    - Use your useflows to help build your sitemap.
+    - Move sketches to an online tool when you start revising.
+    - Use colors in sitemap to help distinguish certain things.
+    - Move to wireframing once you already have a good idea of the structure.
+
