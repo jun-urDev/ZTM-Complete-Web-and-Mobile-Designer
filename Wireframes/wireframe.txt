@@ -1,0 +1,25 @@
+Wireframe
+    - a low-fidelity design layout that serves three simple but exact purposes:
+        a. It presents the information that will be displayed on the page.
+        b. It gives an outline of structure and layout of the page.
+        c. It conveys the overall direction and description of the user interface.
+    - a wireframe describes details clearly and specifically while giving the builders (you, other designers, developers, etc.) an overview of the project.
+
+    - Wireframes serve as a middle ground between pen-and-paper sketches and your first prototype. They help you plan the layout and interaction patterns of your users without distracting details like colors or copy. The proposed user journey should be clear without needing color or shading or fancy menus.
+    - With a wireframe, people pay more attention to functionality and the user experience than the aesthetic characteristics of the on-screen elements.
+    - The key to a good wireframe is simplicity. All you need to do is show how elements are laid out on the page and how the site navigation should work. You can add fancy images and flashy typefaces later. Minimize distractions.
+
+Useful reasons for wireframes:
+    1. Clarity and common understanding amongst the team.
+    2. Testing with users uncovers pain points and opportunities.
+    3. Present to clients and stakeholders to get feedback.
+
+Questions to ask yourself to get started:
+    a. What are the intended user and business goals when interacting with this page?
+    b. Exactly how can the content be organized to support these goals?
+    c. Where should your main message and logo go?
+    d. What should the user see first when arriving at the page?
+    e. Where is the call to action?
+    f. What will the user expect to see on certain areas of the page?
+
+    - Your wireframe should be a visual guide to the framework of your site and how it will be navigated. Looks and visual appeal are not factors at this stage. Your main concern with a wireframe should be presenting your content in an intuitive and natural way that is familiar to users of this kind of service.
