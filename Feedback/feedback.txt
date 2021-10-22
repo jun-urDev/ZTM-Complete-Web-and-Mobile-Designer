@@ -1,0 +1,41 @@
+Type of feedback that impacts your design
+    1. Constructive - Help move design forward, uncover clues to open questions, identify blockers to idea's success and add momentum towards a direction.
+    2. Destructive - Clouds the way your design moves forward, mislead and derail ideas from the problems that is needed to be solved by having irrelevant suggestions.
+
+    The goal is to get your group to give you contructive feedback and what you need is:
+        a. Be clear and provide context.
+        b. Try preparing your invitees ahead of time with a quick intro before the meeting.
+        c. Have clear goals.
+        d. Let others know how far along your designs are.
+        e. Bring up any big questions you want answers to.
+        d. Invite only the people you need to.
+        e. Put your attendees to work.
+        f. Bookmark feedback that isn't relevant right now and come back to it as a group at a later time.
+
+Giving useful feedback
+    a. Start with a foundation of trust
+        - Trust is a two-way street, and it must be established before a designer will receive your feedback with open arms.
+    b. Frame your feedback with context
+        - The most important thing about design feedback is that it must always remain framed by your project goals and metrics for success.
+    c. Be clear and specific
+        - Make sure you frame your feedback and describe precisely what it applies to (is it colour, layout, content design, usability, etc.).
+    d. Describe problems, don’t offer solutions
+        - Instead of providing the how, provide the why. You need to frame them as suggestions for one possible solution to explore and compare, rather than a prescriptive demand.
+    e. Be prepared to explain your thinking
+        - The design feedback process should be a discussion.
+    f. Serve up a love sandwich
+        - Explain what you like, move to concerns then follow up with a praise and end on a positive note.
+    g. Stay objective
+        - When providing feedback, it’s vital that you remove from the equation as much of your own aesthetic preference as possible.
+
+Receiving desgin feedback
+    a. Start early and ask often
+        - Aim for frequent small updates and continuous feedback rather than large chunks of work with occasional feedback between.
+    b. Stay open-minded and don’t take it personally
+        - Lose your ego and stay open-minded to ideas no matter where they come from.
+    c. Clarify and find the root of the cause
+        - If your client doesn’t provide adequate justification for their requests, demand it.
+    d. Present better solutions, and know how to justify them.
+        - If your client requests a design solution that you believe is inferior to your ideas, show it to them anyway. 
+    e. Take praise with grain of salt too!
+        - If your client is too full of love and not enough critique, push them a bit harder to uncover the more subtle concerns they may have.
