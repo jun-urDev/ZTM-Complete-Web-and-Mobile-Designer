@@ -1,0 +1,86 @@
+Prototyping
+    - the process of turning a static mockup into an interactive and dynamic mockup (better known as a prototype). Bringing a static mockup to life is without doubt one of the most — if not the most — exciting step in the design workflow. 
+
+Triggers
+    - determines what type of interaction with the hotspot will cause the Prototype to advance. This could be a mouse or touch interaction like tap, drag, click, and more. 
+
+    On Click/On Tap
+        - Triggers the action when the user Clicks (desktop) or Taps (mobile) on a hotspot in your prototype. You can add click or tap triggers to lots of different elements in a screen.
+        - You can use them for navigation like opening links, using menus, or exploring websites. They can also be used when you need a user to click on buttons, fill in forms, or confirm and dismiss alerts.
+
+    On Drag
+        - Allows you to perform an action when you drag an element on the screen. This can be the entire frame or a single element like a slider.
+        - You can use the On Drag in any direction: Left, Right, Up or Down. This is great for simple swipe gestures, or for more complex animations like a drag to refresh.
+        - Drag allows you to move back and forward through the transition. This creates a continuum, instead of performing the action after a swipe gesture.
+
+    While Hovering
+        - Triggers the action when you hover over the hotspot. You can use this to replicate tooltips, on-screen prompts, or changes in state.
+        - We will return the user to the original frame when they move the cursor off the hotspot. This makes it a great interaction when you don't want to take users away from the current screen.
+
+    While Pressing
+        - Triggers the action when you click and hold the mouse or trackpad on a desktop. Or, when you tap and hold on a mobile device.
+        - You can use this trigger for navigating drop-down menus, or replicating long-press interactions like viewing a preview using 3D Touch on iOS.
+        - When released, we will take the user back to the original Frame. This makes it great for Overlays that capture temporary interactions or state changes.
+
+    Keyboard and Gamepad Shortcuts
+        - The Keyboard / Gamepad trigger lets you replicate interactions with a keyboard shortcut. This applies to user inputs from keyboards, controllers, and gamepads.
+        - A trigger can be a single key or button, or a combination of keys.
+    
+    Mouse Enter
+        - This shows the Destination frame when the mouse enters the hotspot area. This could be a small area like a button, or an entire section of the screen.
+        - You could use this to expose the options in a drop down menu as your mouse enters the field. The menu will stay open until the user performs another interaction like selecting an item or clicking out of the field.
+
+    Mouse Leave
+        - This shows the Destination frame when the cursor leaves the hotspot area.
+        - You could use this for on-screen prompts, like an alert when you haven't completed a field or checked a box.
+
+    Mouse Down (Touch Down)
+        - This triggers the Destination frame when you first press the mouse or touch pad. For mobile devices, this is when the user's finger first touches the hotspot.
+    
+    Mouse Up (Touch Up)
+        - This triggers the Destination frame when you release the mouse or touch pad. For mobile devices, this is once the user's finger no longer touches the Hotspot.
+            - Apply the Mouse Down trigger to the menu header to open an Overlay.
+            - Apply the Mouse Up interaction to the menu item in the Overlay.
+            - When they release the mouse, we take the user to the relevant Frame.
+
+    After Delay
+        - The After Delay trigger allows you to trigger an action after the user has spent a certain amount of time on a given frame. You will need to set the duration of the delay in milliseconds (ms). You can only apply this to a top-level Frame, not a specific layer or object.
+
+Animations 
+    - can be used to create smooth transitions between pages and define the behavior for actions like expanding a menu, swiping between pages, or opening a gallery.
+
+    Instant
+        - The Instant transition will immediately display the Destination Frame, when the hotspot is interacted with (clicked, hovered over, or pressed).
+
+    Dissolve
+        - The Dissolve transition will fade in the Destination frame, on top of the original frame.
+        Supports:
+            - Duration
+            - Easing
+
+    Smart Animate
+        - Smart Animate looks for matching layers that exist across multiple frames. For layers that match, we recognize what's changed and apply transitions to seamlessly move between them.
+        Supports:
+            - Duration
+            - Easing
+
+    Move In / Move Out
+        - The Move transition will slide the Destination frame into or out of view, above the original frame.
+        Supports:
+            - Easing
+            - Direction 
+            - Duration 
+
+    Push
+        - The Push transition will push out the original frame, as the Destination frame is moved into view. This is the perfect transition for replicating a swiping gesture.
+        Supports:
+            - Easing
+            - Direction 
+            - Duration
+
+    Slide In / Slide Out
+        - The Slide will move the Destination frame into or out of view. Slide will slowly offset the frame as it dissolves, while the Move transition keeps the original frame stationary.
+        Supports:
+            - Easing
+            - Direction 
+            - Duration
