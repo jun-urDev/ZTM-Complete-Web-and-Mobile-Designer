@@ -1,0 +1,70 @@
+Spacial System
+    - set of rules for how you measure, size, and space your UI elements.
+
+How do you start a spatial system?
+    - Defining your base unit will allow you to create the scale of supported sizes in your spatial system.
+    - 4pt, 5pt, 6pt, 8pt, 10pt are most commonly seen increment systems.
+
+How do I apply a spatial system?
+    - Applying the spatial scale to your UI elements can come in the form of padding, margin, height, and width definitions.
+
+    Element first (strict element sizing)
+        - the sizing of solid elements takes priority when matched to your predetermined spatial system.
+        - This includes things like buttons and form inputs. These elements are more likely to have predictable content and are key to creating rhythm in the overall composition.
+
+    Content first (strict internal padding)
+        - When the content is less predictable and we care about its display, we will want to enforce strict internal padding and allow element sizes to be dictated by their content.
+        - These element’s sizes may still fall into your spatial system’s rules but that is secondary to the spacing around the content. This is useful for tables with indeterminate user content.
+
+Grid
+    - helps you arrange your content into structured propositions.
+    - structure comprising a series of lines dividing a page into columns (horizontal and vertical).
+
+    Base Unit
+        - defines what every single measurement will be a multiple of. (preferred is 8)
+
+    Sizing 
+        - All UI elements should be measured in increments of our base unit.
+
+    Padding 
+        - The spacing between all  of our elements should be based off of our base unit.
+
+    Layout 
+        Column 
+            - vertical blocks that span from left to right.
+        Gutter
+            - white spaces between columns.
+        Margin 
+            - white space between the edge of column and edge of frame.
+
+    Column grid
+        - helps you organize content into evenly spaced vertical columns.
+        - The space between columns is referred to as the gutter size. Applying your spatial system rules to the gutters will help drive home a consistent rhythm in your designs.
+        - A common example is the 12 column grid because it allows you to divide the given area into half, thirds, fourths, sixths.
+
+    Modular grid
+        - takes columns and rows into account to organize content into a matrix structure.
+        - Modular grids are ideal for a strict format layout like a book but can break down for a relative sized responsive web layout.
+
+    Baseline grid
+        - a baseline grid was used to set the leading from one line of text to the next. However, on the web, we place text by line-heights instead of the baseline.
+        - setting the typography onto a consistent grid will be easier to organize, create vertical rhythm, and be aesthetically pleasing.
+
+Composing a layout
+    - Layouts are the culmination of defined spatial rules and the organization of content into one single composition.
+    - There are three main concepts for crafting a layout that can scale gracefully.
+
+    Adaptive
+        - An adaptive layout is one that changes entirely based on the format it is presented in.
+
+    Responsive
+        - A responsive layout is fluid and can adapt to a changing format size.
+
+    Strict
+        - This layout will not flex with a changing format size.
+        - Fixed layouts are often used to promote a specific interaction or informational layout that would be degraded at a smaller size.
+
+Grid Guides
+    - elements should sit on their own columns.
+    - elements should never be left on the gutters.
+    - outside column is not for padding.
