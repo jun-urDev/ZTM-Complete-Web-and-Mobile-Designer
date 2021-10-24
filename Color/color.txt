@@ -1,0 +1,48 @@
+Color Theory
+    - is the collection of rules and guidelines which designers use to communicate with users through appealing color schemes in visual interfaces.
+
+Color 
+    Primary (red, blue, yellow) 
+    Secondary (mixes of primary colors)
+    Tertiary (or intermediate – mixes of primary and secondary colors)
+
+Color Properties
+    Hue – How it appears (e.g., “is green”).
+    Chroma – How pure it is: i.e., if it has shades (black added), tints (white added) or tones (grey added).
+    Lighting – How pale or saturated it appears.
+
+Color Schemes
+    - In screen design, designers use the additive color model, where red, green and blue are the primary colors.
+    
+    Monochromatic 
+        – Take one hue and create other elements from different shades and tints of it.
+
+    Analogous 
+        – Use three colors located beside one another on the color wheel (e.g., orange, yellow-orange and yellow to show sunlight). A variant is to mix white with these to form a “high-key” analogous color scheme (e.g., flames).
+
+    Complementary 
+        – Use “opposite color” pairs—e.g., blue/yellow—to maximize contrast.
+
+    Split-Complementary (or Compound Harmony) 
+        – Add colors from either side of your complementary color pair to soften contrast.
+
+    Triadic 
+        – Take three colors which are equally distant on the color wheel (i.e., 120° apart: e.g., red/blue/yellow). These colors may not be vibrant, but the scheme can be as it maintains harmony and high contrast. It’s easier to make visually appealing designs with this than with a complementary scheme.
+
+    Tetradic 
+        – Take four colors that are two sets of complementary pairs (e.g., orange/yellow/blue/violet) and choose one dominant color. This allows rich, interesting designs. However, watch the balance between warm and cool colors.
+
+    Square 
+        – A variant of tetradic; you find four colors evenly spaced on the color wheel (i.e., 90° apart). Unlike tetradic, square schemes can work well if you use all four colors evenly.
+
+Important Ideas
+    - color can help reinforce the personality of your brand.
+    - think about what these colors mean to you.
+
+Helpful Tips:
+    - Color should be scalable and additive.
+    - Always tint your grays and blacks.
+    - Color contrast creates hierarchy and ensures accesibility. 
+
+Contrast 
+    - is the difference in luminance or color that makes an object (or its representation in an image or display) distinguishable.
