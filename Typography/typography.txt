@@ -1,0 +1,86 @@
+Typography
+    - art of arranging letters and text in a way that makes the copy legible, clear, and visually appealing to the reader.
+    - typography involves font style, appearance, and structure, which aims to elicit certain emotions and convey specific messages.
+
+Importance of typography
+    - Good typography will establish a strong visual hierarchy, provide a graphic balance to the website, and set the product’s overall tone.
+    - Typography should guide and inform your users, optimize readability and accessibility, and ensure an excellent user experience.
+
+Elements of typography
+    Fonts and Typefaces
+        Typeface - is a design style which comprises a myriad of characters of varying sizes and weight.
+        Font -  is a graphical representation of text character, a family of related fonts.
+
+        Serif
+            - comes off as traditional and elegant.
+            - fonts that has serifs which are the curl on its edges.
+
+            Categories:
+                Old style (Goudy)
+                    - Old-style serifs tend to have a rather drawn or calligraphic quality.
+                Transitional (Times New Roman)
+                    - Transitional fonts are often considered a midpoint between the old style and more modern styles.
+                Modern (Didot)
+                    - Tends to have thin serifs and plenty of contrast.
+                Slab (Courier)
+                    - No contrast, has thick serifs and continuous line width.
+
+        Sans-Serif
+            - "Without serif" translated from french, lacks serif qualities.
+
+            Categories:
+                Grotesque (Source Sans Pro)
+                    - These typefaces often have letterforms that are very similar to serif typefaces, minus the serifs.
+                Neo-Grotesque (Helvetica)
+                    - They have a relatively plain appearance when compared to the grotesques.
+                Humanist (Gills Sans)
+                    - They’re more calligraphic than other sans-serifs, meaning they have a greater variation in line widths.
+                Geometric (Futura)
+                    - Geometric sans-serifs are more closely based on geometric shapes.
+
+        Display (Lobster)
+            - is a typeface that is intended for use at large sizes for headings, rather than for extended passages of body text.
+            - Display typefaces will often have more eccentric and variable designs than the simple, relatively restrained typefaces generally used for body text.
+
+        Monospace (Roboto Mono)
+            - is a font whose letters and characters each occupy the same amount of horizontal space.
+            - also called a fixed-pitch, fixed-width, or non-proportional font.
+            - commonly used for technical fields.
+
+    Contrast
+        - helps to convey which ideas or message you want to emphasize to your readers.
+
+    Consistency
+        - is key to avoiding a confusing and messy interface.
+        - it is a good practice to establish a consistent hierarchy of typefaces (one consistent font for headers, another for subheadings) and stick to it.
+
+    White Space
+        - Often referred to as ‘negative space,’ white space is the space around text or graphics.
+
+    Alignment
+        - is the process of unifying and composing text, graphics, and images to ensure there is equal space, size, and distances between each element.
+
+    Color
+        - it can make the text stand out and convey the tone of the message.
+        - designers often test this by viewing the text in greyscale (without color) and making tweaks if the text is too dark or too light against the background color.
+
+    Hierarchy 
+        - creates a clear distinction between prominent pieces of copy that should be noticed and read first, and standard text copy.
+
+Picking Typeface 
+    Think of the mood or personality
+        - think about values and words that describe the feeling of what you want to create.
+        - Limit yourself to three to five traits, then you can start to get a sense of the direction your font needs to go in.
+
+    Consider visual and tonal direction 
+        - Visual is very much the font and how it looks, while tonal is the arrangement of words to form a message.
+
+    Consider performance
+        - It’s always worth making sure that your chosen font is web safe and can be rendered perfectly in a browser.
+
+    Test rigorously
+        - Always test your type in ways that are relevant to the project.
+        - You don't know if a typeface will work until you've seen it at the right size and tested whether the spacing works.
+
+    Pair up properly
+        - start by defining what you want to achieve: harmony or contrast.
