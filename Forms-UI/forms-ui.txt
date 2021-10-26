@@ -1,0 +1,60 @@
+UI elements
+    - are elements within your user interface.
+    - they are responsible for interactions between the user and the application.
+
+Best practices for Forms
+    - Keep it as short as possible, ask only informations that are required.
+    - It should flow like a conversation, sensitive informations comes last.
+    - Categories relatable informations, break each piece into their own groups.
+    - Forms should be implemented from top to bottom to avoid confusion.
+    - Buttons start from left to right (up for debate).
+    - Make buttons distinguishable and descriptive, put emphasis on the main action.
+    - Long forms should show progress or step in a process.
+
+Common Form Input Elements
+    Text Field
+        - used for short responses (single line of text).
+    Text Area 
+        - used for long responses (multiple line of text).
+    Dropdown Menu
+        - This usually allows for the selection of a single element from multiple choices.
+        - used for more than 5 choices.
+    Checkboxes 
+        - Alternative way for selecting none, one, or multiple choices.
+        - use when there are 4 or less options to choose from.
+    Radio Buttons
+        - It allows for the selection of a single element from multiple choices. 
+        - use when there are 4 or less options to choose from.
+    Multi-select Textfield
+        - allows user to enter multiple inputs which is displayed as chips.
+    Dropdown Search
+        - filters available options that matches a user search.
+
+Best practices for Inputs
+    - Height of input should be the same height as primary button.
+    - Input fields should have the same length besides inputs that only require short answers.
+    - Label should be short and clear.
+    - Hint text beside label can replace placeholders.
+    - Icons also serves to reinforce labels. Typically placed at left of input field.
+    - Icons can also be used to indicate a functionality.
+    - Icons together with color can also be used to show feedback.
+
+Input States
+    Default - standard and unaltered
+    Active Field - in focus and is outlined and also notifies that the field is selected.
+    Filled Input - similar to default but field is filled which signifies that field is done.
+    Disabled - could have info or is highlighted and darkened.
+    Success - shows success icon, message and is outlined with green.
+    Error - shows success icon, message and is outlined with red.
+    Assistance - has hint text to guide user input.
+    Auto-Format - automatically format user inputs to make it more readable.
+    Auto-Complete - automatically suggest input to reduce errors.
+    Default Values - prefilled with the most likely answer.
+
+Best practices for Buttons
+    - make button text more descriptive, more action-based.
+    - text can be also be personalized.
+    - put emphasis to the primary button to make it distinguishable.
+    - make buttons easily tappable, 40-48px.
+    - try to avoid clear button.
+    - consider making button disabled before finishing input fields. 
