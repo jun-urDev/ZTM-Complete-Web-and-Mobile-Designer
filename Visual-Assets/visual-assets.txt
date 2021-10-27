@@ -1,0 +1,46 @@
+Visual assets
+    - are digital elements like videos, memes, diagrams, GIFs, screenshots, photography, or images.
+
+Resources/Plug-ins:
+    Unsplash (Images)
+        - Insert beautiful images from Unsplash straight into your designs.
+    Humaaans (Illustrations)
+        - brings the amazing illustations library called Humaaans by Pablo Stanley
+        - you can either use the already premade people illustrations or mix-&-match illustrations to create your own unique work.
+    Blush (Illustrations)
+        - create and customize illustrations in your designs.
+        - you can keep playing with the variations in the illustration to create something unique that fits your brand.
+    Material Icons (Icons)
+        - icons crafted based on the core design principles and metrics of Material Design guidelines.
+        - Material Design icons are built as components in 5 variants: Filled, Outlined, Sharp, Rounded, Two-tone.
+    Iconify (Icons)
+        - import Material Design Icons, FontAwesome, Jam Icons, EmojiOne, Twitter Emoji and many other icons (more than 100 icon sets containing over 100,000 icons) as vector shapes.
+
+
+--- Extra ---
+Logo Guidelines
+    1. Space around the logo
+        - There should be sufficient clear space around the logo to let it breathe and prevent it’s clarity and visual impact from being obstructed.
+    2. Color palette  
+        - A brand’s color palette is usually made up of four or five colors and either include or are complimentary with the colors of their logo.
+        - The rule of thumb is to pick:
+            a. One light color to use as the background
+            b. One darker color for text
+            c. One neutral shade that goes with everything
+            d. One color that catches the eyes
+    3. Typography and Font 
+        - questions to help you set typography rules within your logo usage guidelines:
+            a. What is your brand font?
+                - This is the first aspect of your typography guideline you will need to determine.
+            b. Why is this your font?
+                - Tell the story of what makes this font the best representative for your brand.
+            c. What is the font you use for other communications?
+            d. Will you allow any shading or effects in the typography surrounding your brand.
+    4. Logo size
+        - minimum size is ideally in pixels for digital use and in inches or millimeters for print.
+        - setting proportional values is as important as setting a minimum size.
+    5. Description of the logo
+        - the logo in essence, is the brand name, but not all logos need to include a name.
+        - the description of your logo is a brief explanation of what your logo looks like and why.
+    6. Logo colors
+        - one of the key principles of logo design is that your logo should look good in black and white, in its simplest form with no effects.
