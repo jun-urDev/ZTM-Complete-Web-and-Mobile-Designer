@@ -1,0 +1,37 @@
+Accessibility
+    - the concept of whether a product or service can be used by everyone—however they encounter it.
+    - is concerned with whether all users are able to access an equivalent user experience, however they encounter a product or service.
+    - Accessibility is not a checklist. It should be ingrained in the way we design.
+
+Accessibility Issues:
+    These are common barriers:
+        a. Visual (e.g., color blindness)
+        b. Motor/mobility (e.g., wheelchair-user concerns)
+        c. Auditory (hearing difficulties)
+        d. Seizures (especially photosensitive epilepsy)
+        e. Learning/cognitive (e.g., dyslexia)
+
+    Ability barriers can also arise for any user:
+        a. Incidental (e.g., sleep-deprivation)
+        b. Environmental (e.g., using a mobile device underground)
+
+Assistive Technologies
+    - is any item, piece of equipment, software program, or product system that is used to increase, maintain, or improve the functional capabilities of persons with disabilities.
+
+        Screen Readers
+            - a software application that renders text and image content as speech or braille output.
+        Braille Terminals
+            - is an electro-mechanical device for displaying characters, usually by means of round-tipped pins raised through holes in a flat surface.
+        Screen Magnification Software 
+            - is a software that interfaces with a computer's graphical output to present enlarged screen content.
+        Alternate Input and Software Devices
+            - are hardware or software solutions that allow users with a variety of impairments to access a computer in a different way.
+
+Visual Patterns For Accessibility
+    a. Color Contrast
+    b. Labels
+    c. Focus States
+    d. Hover States
+    e. Click Targets
+    f. Target Areas
+    
