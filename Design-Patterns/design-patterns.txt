@@ -1,0 +1,22 @@
+Design Pattern
+    - are the recurring solutions that solve common design problems.
+    - these are standard reference points for a designer.
+
+Categories of Design Patterns:
+    1. Data + Input - handle data input and feedback.
+    2. Content Structuring - flow of user screen and accessiility of all page contents.
+    3. Navigation - ensure effortless navigation. 
+    4. Incentivisation - push user to do certain actions.
+    5. Hierarchy - helps craft visual hierarchy.
+    6. Social Media - encourage interaction online.
+
+Importance of Design Patterns:
+    a. people will naturally look for patterns.
+    b. using standard design patterns reduces cognitive strain.
+    c. patterns saves us from having to constantly reinvent the wheel.
+
+Applying Design Patterns:
+    1. figure out the problems that require solutions.
+    2. analyze other products that have found a solution.
+    3. examine how other products implement these solutions.
+    4. analyze each pattern and decide which one is right for your problem.
