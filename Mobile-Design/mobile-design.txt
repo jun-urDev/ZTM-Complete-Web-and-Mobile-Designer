@@ -1,0 +1,24 @@
+Mobile Design Best Practices
+    - the difference between a good app and a bad app is the quality of its user experience.
+
+    Don't make users think.
+        - if your app is too hard to use or understand, you risk having the user walk away from the product.
+
+        1. Declutter
+        2. Break task into smaller chunks
+        3. Stick to patterns
+        4. Minimize user inputs
+        5. Consistency
+        6. Give your user the illusion of control
+
+    Make your product easy to navigate
+        1. Think about standard navigation patterns
+        2. Think about order
+        3. Stay consistent
+        4. Microinteractions and motion shouldn't be an afterthought
+        5. Stick to basics
+        6. Think about the first time experience
+        7. Try letting your users use the app first
+        8. Onboarding is so important
+        9. The illusion of a fast product
+        10. Optimize for smaller screen
