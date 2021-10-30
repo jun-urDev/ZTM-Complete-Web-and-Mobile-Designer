@@ -1,0 +1,68 @@
+Atomic Design
+    - is a methodology composed of five distinct stages working together to create interface design systems in a more deliberate and hierarchical manner.
+    - Atomic design is not a linear process, but rather a mental model to help us think of our user interfaces as both a cohesive whole and a collection of parts at the same time.
+
+    single-responsibility principle (SRP)
+        - is a computer-programming principle that states that every module, class or function in a computer program should have responsibility over a single part of that program's functionality, and it should encapsulate that part.
+        - “do one thing and do it well” mentality.
+    
+    5 stages of atomic design:
+        Atoms
+            - are UI elements that can’t be broken down any further and serve as the elemental building blocks of an interface.
+        Molecules 
+            - are collections of atoms that form relatively simple UI components.
+        Organisms 
+            - are relatively complex components that form discrete sections of an interface.
+        Templates 
+            - place components within a layout and demonstrate the design’s underlying content structure.
+        Pages 
+            - apply real content to templates and articulate variations to demonstrate the final UI and test the resilience of the design system.
+
+Advantage of Atomic Design
+    The part and the whole
+        - One of the biggest advantages atomic design provides is the ability to quickly shift between abstract and concrete. We can simultaneously see our interfaces broken down to their atomic elements and also see how those elements combine together to form our final experiences.
+    Clean separation between structure and content
+        - Atomic design gives us a language for discussing the structure of our UI patterns and also the content that goes inside those patterns. While there is a clean separation between the content structure skeleton (templates) and the final content (pages), atomic design recognizes the two very much influence each other.
+    What’s in a name?
+        - “Atomic design” as a buzzword encapsulates the concepts of modular design and development, which becomes a useful shorthand for convincing stakeholders and talking with colleagues.
+
+Visual Design
+    - Visual design aims to improve a design’s/product’s aesthetic appeal and usability with suitable images, typography, space, layout and color.
+    - Visual design is about more than aesthetics. Designers place elements carefully to create interfaces that optimize user experience and drive conversion.
+    - you use visual design to create and organize elements to:
+        a. lead the user’s eye to an item’s functionality
+        b. make the aesthetics consistent
+
+Elements of Visual Design:
+    1. Lines (straight/curved/geometric/organic)
+        - use these to create divisions, textures and shapes.
+    2. Shapes
+        - use lines, different colors, etc. to create enclosed/self-contained areas.
+    3. Negative space/whitespace
+        - use the blank area around a “positive” shape to create a figure/ground effect or calm the design overall.
+    4. Volume
+        - use this to show the rich fullness of all three dimensions of elements on two-dimensional screens.
+    5. Value
+        - use this to set the relationship between lightness and darkness, typically through a light source to create shadows and highlights.
+    6. Color
+        - use this to set the theme/tone and attract attention.
+    7. Texture
+        - use this to define an object’s surface.
+
+Principles of Visual Design:
+    - visual design principles inform us how design elements go together to create well-rounded and thoughtful visuals. Graphics that take the advantage of the principles of good visual design can drive engagement and increase usability.
+    
+        1. Unity
+            - use this to establish harmony between page elements, so they appear to belong together and users aren’t distracted by chaotic (e.g., misaligned) layouts.
+        2. Gestalt
+            - use these principles of how people perceive objects to guide how users interpret your design.
+        3. Hierarchy
+            - use placement, font, etc. to show importance.
+        4. Balance
+            - use this to distribute elements evenly.
+        5. Contrast
+            - use differences in color, etc. to accentuate elements.
+        6. Scale
+            - use this to emphasize elements to establish importance or depth.
+        7. Dominance
+            - use an object’s size, color, etc. to make it stand out.
