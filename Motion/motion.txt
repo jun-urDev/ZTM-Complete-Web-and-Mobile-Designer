@@ -1,0 +1,53 @@
+Importance of Motion:
+    "Motion tells stories. Everything in an app is a sequence, and motion is your guide. For every button clicked and screen transition, there is a story that follows."
+    - Craig Dehner, Former Human Interface team at Apple
+
+Purpose of Motion:
+    a. State Transitions
+    b. Visual Feedback
+    c. Visual Cues
+
+Smart Animate
+    - Smart Animate looks for matching layers, recognizes differences, and animates layers between frames in a prototype.
+    - Smart Animate allows you to quickly create advanced animations. Use Smart Animate to replicate:
+        a. Loading sequences
+        b. Parallax scrolling
+        c. Touch gestures e.g. Drag, Swipe, Long-Press
+        d. Sliders, Toggles and Switches
+        e. Expanding content (Show more / Show Less)
+        f. Pull to refresh
+
+    Supported properties
+        - Smart Animate looks for matching layers that exist across multiple frames. Figma takes into account both the layer's name and where it sits within the hierarchy.
+        - For layers that match between frames, Figma recognizes what's changed and applies transition to animate between them.
+        - You can apply Smart Animate to entire objects or Components, as well as individual layers within a Component or group.
+        - It's likely that more than one of an object's properties will change between Frames. We've isolated each of the properties we support below, so you know what to expect.
+
+        Scale
+            - If an object changes in size between frames, Figma will animate it shrinking or growing.
+        Position
+            - Figma recognizes if an object's location, the x and y co-ordinates, have changed. It will then animate the object moving from its current position, to its position in the destination frame.
+        Opacity
+            - Smart Animate can also recognize a layer or object's opacity. You can adjust opacity to make an object to appear or disappear between frames.
+        Rotation
+            - Smart Animate also takes the layer's rotation and orientation into account.
+        Fill
+            - Figma will Smart Animate any changes to an object's fill. This allows you to animate changes between solid colors, gradients and even image fills.
+        
+    Tips for Smart Animation
+        - Before Smart Animate, Figma didn't place much importance on layer names. As Smart Animate is reliant on Layer name and hierarchy, this may require you to use a different approach.
+
+        Layer Names 
+            - One quick way to create frames for Smart Animate is to duplicate them. This keeps the naming consistent between each frame. You can then add and remove layers to each frame, as needed.
+        View matching layers
+            - Figma has also made it easier to identify layers or objects that exist - or match - between frames. This applies to all layers, groups, frames, and Components.
+        Layer order and hierarchy
+            - Smart Animate and Smart Animate matching layers take into account the layer order, or hierarchy of your layers.
+            - Normally, Move In or Slide In will transition the entire destination frame above the original frame. With Smart Animate matching layers, Figma will move or slide in layers based on their hierarchy, which can cause some confusing or unexpected results.
+        Group layers
+            - To be more precise in deciding what to Smart Animate, Figma matches layers based on their name and hierarchy. This also lets you quickly un-match layers between frames.
+        Smart Animate with Slide In and Move In
+            - There are a few things to consider when using Smart Animate matching layers with Slide or Move transitions.
+            - When selected, Figma will animate any matching layers between frames. This means Figma can't animate the entire destination Frame (B) over the initial Frame (A), like it normally would.
+            - Figma also doesn't include a frame's fill as part of the animation. This can cause layers to overlap, making the transition look messy
+            - To prevent this, we can add a rectangle with a solid fill behind our other layers. Now, when we view our prototype, the content in each frame slides in together.

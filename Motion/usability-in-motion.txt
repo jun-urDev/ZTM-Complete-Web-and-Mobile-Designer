@@ -1,0 +1,102 @@
+Creating Usability with Motion: The UX in Motion Manifesto
+    - There are 12 specific opportunities to support usability in your UX projects using motion.
+    - The 12 Principles of UX in Motion can be stacked and combined synergistically in a myriad of innovative ways.
+
+    It’s not about UI Animation
+        - ‘UI Animation’ is typically thought of by designers as something that makes the user experience more delightful, but overall doesn’t add much value.
+        - What most designers think of as ‘UI Animation’ is in fact the execution of a higher modality of design: the temporal behavior of interface objects during realtime and non-realtime events.
+
+    Realtime vs non-realtime interactions
+        - it is important to distinguish between ‘state’ and ‘act'.
+            State
+                - The state of something in UX is fundamentally static, like a design comp.
+            Act
+                - The act of something in UX is fundamentally temporal, and motion based.
+
+        - all temporal aspects of interaction can be thought of as happening in realtime or non-realtime.
+            Realtime
+                - means that the user is directly interacting with the objects in the user interface.
+                - Realtime interactions can also be thought of as ‘direct manipulation,’ in that the user is interacting with the interface objects directly and immediately. The behavior of the interface is happening as the user is using it.
+            Non-realtime
+                - means that the object behavior is post-interactive: it occurs after a user action, and is transitional.
+                - Non-realtime interactions happen only after input from the user and have the effect of briefly locking the user out of the user experience until the transition completes.
+
+    Motion supports usability in four ways
+        - These four pillars represent the four ways where the temporal behavior of user experiences supports usability.
+
+        Expectation
+            - Expectation fall into two areas — how users perceive what an object is, and how it behaves. Another way of saying this is that as designers, we want to minimize the gap between what the user expects, and what they experience.
+        Continuity
+            - Continuity speaks both to the user flow and to the ‘consistency’ of the user experience. Continuity can be thought of in terms of ‘intra-continuity’ — the continuity within a scene, and ‘inter-continuity’ — the continuity within a series of scenes that make up the total user experience.
+        Narrative
+            - Narrative is the linear progression of events in the user experience that results in a temporal/spatial framework. This can be thought of as the series of discreet moments and events that connect together throughout the user experience.
+        Relationship
+            - Relationship refers to the spatial, temporal, and hierarchal representations between interface objects that guide user understanding and decision making.
+
+    Principles, Techniques, Properties, and Values
+        Principles
+            - “Principles… are the underlying premises and rules of function giving rise to any number of techniques. These elements remain consistent, no matter what is happening.” - Tyler Waye
+            - Principles are agnostic of design.
+        Techniques
+            - as the various and unlimited executions of Principles and/or combination of Principles. I think of technique as akin to ‘style.’
+        Properties
+            - are the specific object parameters that are being animated to create the technique. These include (and are not limited to) position, opacity, scale, rotation, anchor point, color, stroke-width, shape, etc.
+        Values
+            - are the actual numeric property values that vary over time to create what we call ‘animation.’
+
+    The 12 Principles of UX in Motion
+        Principle 1: Easing
+            - Object behavior aligns with user expectations when temporal events occur.
+            - Easing creates and reinforces the ‘naturalism’ inherent in the seamlessness of user experiences, and creates a sense of continuity when objects behave as users expect them to.
+            - always use easing.
+        Principle 2: Offset & Delay
+            - Defines object relationships and hierarchies when introducing new elements and scenes.
+            - it pre-consciously sets the user up for success by ‘telling’ the user something about the nature of the objects in the interface.
+        Principle 3: Parenting
+            - Creates spatial and temporal hierarchal relationships when interacting with multiple objects.
+            - Parenting is the linking of object properties to other object properties. This creates object relationships and hierarchies in ways that support usability.
+            - allows designers to better coordinate temporal events in the user interface, while communicating to users the nature of the object relationships.
+            - Parenting functions best as a ‘realtime’ interaction.
+        Principle 4: Transformation
+            - Creates a continuous state of narrative flow when object utility changes.
+            - it seamlessly transition the user through the different UX states.
+            - This seamlessness results in better user awareness, retention, and followthrough.
+        Principle 5: Value change
+            - Creates a dynamic and continuous narrative relationship when value subject changes.
+            - The three opportunities here are to connect the user to the reality behind the data, the concept of agency, and to the dynamic nature of the values themselves.
+        Principle 6: Masking
+            - Creates continuity in an interface object or object group when utility is determined by which part of the object or group is revealed or concealed.
+            - a relationship between the shape of the object and it’s utility.
+            - This has the effect of changing what the object is, while preserving the content within the mask.
+        Principle 7: Overlay
+            - Creates narrative and object spatial relationship in visual flatland when layered objects are location dependent.
+            - allows users to utilize flatland ordering properties to overcome a lack of non-spatial hierarchies.
+        Principle 8: Cloning
+            - Creates continuity, relationship and narrative, when new objects originate and depart.
+            - When new objects are created in current scenes (and from current objects), it is important to narratively account for their appearance.
+        Principle 9: Obscuration
+            - Allows users to spatially orient themselves in relationship to objects or scenes not in the primary visual hierarchy.
+            - the act of being obscured and not the state of being obscured.
+            - Obscuration allows designers to compensate for a single unified field of view, or ‘objective view,’ in user experiences.
+        Principle 10: Parallax
+            - Creates spatial hierarchy in visual flatland when users scroll.
+            - ‘Parallax,’ as a UX in Motion Principle describes different interface objects moving at different rates.
+            - allows user to focus on primary actions and content while maintaining design integrity.
+            - Designers can use Parallax to separate out immediacy content from ambient or supportive content.
+        Principle 11: Dimensionality
+            - Provides a spatial narrative framework when new objects originate and depart.
+            - Dimensionality provides a powerful way to overcome the flatland non-logic of User Experiences.
+            - Dimensionality presents itself in three ways:
+                Origami Dimensionality
+                    - can be thought of in terms of ‘folding’ or ‘hinged’ three dimensional interface objects.
+                Floating Dimensionality
+                    - gives interface objects a spatial origin and departure, making the interaction models intuitive and highly narrative.
+                Object Dimensionality
+                    - results in dimensional objects with true depth and form.
+        Principle 12: Dolly & Zoom
+            - Preserves continuity and spatial narrative when navigating interface objects and spaces.
+            - are filmic concepts referring to the movement of objects relevant to the camera, and the size of the image itself in the frame smoothly changing from a long shot to a close up shot (or vice versa).
+                Dolly
+                    - is a film term and applies to camera movement either toward or away from a subject (it also applies to horizontal ‘tracking’ movement as well, but is less relevant in a usability context).
+                Zoom
+                    - refers to events where neither the perspective nor the object is moving spatially, but rather the object itself is scaling (or our view of it is decreasing, resulting in the image enlarging). This communicates to the viewer that additional interface objects are ‘inside’ other objects or scenes.

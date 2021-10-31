@@ -1,0 +1,73 @@
+Duration and speed of the animation
+    - When elements change their state or position, the duration of the animation should be slow enough to give users the possibility to notice the change, but at the same time quick enough not to cause waiting.
+    - Numerous researches have discovered that optimal speed for interface animation is between 200 and 500 ms.
+    
+    100-200ms:
+        - Hover effects, fading, scaling
+    300-500ms:
+        - large moves, complex easing
+
+    Material Design Guidelines:
+        - Smaller elements or animation with small changes should move faster with exception to web. Accordingly, the animation with large and complex elements looks better when it lasts a little longer. 
+
+        Bigger screen = longer duration
+        Smaller screen = shorter duration
+
+        Mobile
+            - 200-300ms duration of animation limit
+        Tablet
+            - (30% longer) or 400-450ms
+        Wearable
+            - (30% shorter) or 150-200ms
+        Web 
+            - (50% shorter) or 150-200ms
+
+    Easing
+        - Easing helps to make the movement of the object more natural.
+        - For the animation not to look mechanical and artificial, the object should move with some acceleration or deceleration — just like all live objects in the physical world.
+
+    Animation Curve
+        - The curve shows how the position of the object (y axis) changes during the same time intervals (x axis).
+
+    Linear motion
+        As time moves along, the value increases in equal amounts.
+            - used only when the object changes its color or transparency.
+            - use for the states when an object does not change its position.
+
+    Ease-in
+        Causes the animation to start more quickly than linear ones, and it also has deceleration at the end.
+            - used when object is moving with a certain acceleration.
+            - used when the objects fly out of the screen at full speed (system notifications or just cards of the interface).
+
+    Ease-out
+        This is the opposite of Ease-In. Animation starts slow and ends fast.
+            - used when the element emerges on the screen — it flies up on the screen at full speed, gradually slows down until it completely stops.
+
+    Ease-in-out or standard curve
+        Slow start, fast middle, and slow end.
+            - Whenever you doubt what type of motion to use in your animation, use standard curve.
+            - used in interface animation.
+            - used when the objects move from one part of the screen to another. In such case, animation avoids the eye-catching and dramatic effect.
+
+    - According to Material Design Guidelines, it is better to use an asymmetric curve to make the movement look more natural and realistic. The end of the curve must be more emphasized than its beginning, so that the duration of acceleration is shorter than that of slowing down. In this case, the user will pay more attention to the final movement of the element and thus to its new state.
+    - The beginning animation is not equal to the ending animation. The time of the object’s emergence should be longer to attract more attention.
+
+    - A function cubic-bezier() is used to describe the curves. It’s called cubic because it’s based on four points. The first point with coordinates 0;0 (bottom left), and the last one with coordinates 1;1 (top right) are already defined on the graph.
+    - Based on that we need to describe only two points on the graph, which are given by four arguments of the function cubic-bezier(): the first two are the coordinates x and y of the first point, the second two are the coordinates x and y of the second point.
+
+Choreography in interfaces animation
+    - guide the user’s attention in one fluid direction during the transition from one state to another.
+    - There are two types of choreography — equal and subordinate interaction. 
+
+    Equal interaction
+        - Equal interaction means that the appearance of all objects obeys to one particular rule.
+        - one flow guides user’s attention in one direction.
+
+    Subordinate interaction
+        - Subordinate interaction means that we have one central object which attracts all user’s attention, and all other elements are subordinate to it.
+        - This type of animation gives the sense of order and draws more attention to the main content.
+
+        Guide:
+            - According to Material Design, when the moving objects transform their size disproportionally, they should move along the arc rather than in a straight line.
+            - If the paths of the moving objects intersect one another, they cannot move through each other. The objects should leave enough space for the movement of another object by slowing down or accelerating their own speed. Another option — they just push away other objects. Why that? Since we assume that all objects in the interface lie in one plane.
+            - In another case, the moving object can rise above other objects. But again no dissolving or movement through other objects. Why? Since we believe that the elements of the interface behave in accordance with the laws of physics, and no solid objects in the real world are capable of doing that.

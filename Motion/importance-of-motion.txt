@@ -1,0 +1,17 @@
+The importance of motion for UX design
+    Guidelines
+        - They try to set a standard for motion for designers to use in the apps they design for Google’s Android platform — following four main principles, namely: 
+            a. Responsive 
+            b. Natural
+            c. Aware
+            d. Intentional
+        - They coin a variety of terms, such as Material Response, Point of Origin, Delightful Details and more. These are essentially best practices respecting the aforementioned principles.
+        - The main vision of Material Design is to honour rules of three-dimensional space, and giving objects and characters appropriate dimensionality through visualisation of volume and weight.
+
+    Other Principles
+        - Overdoing motion can cause frustration with users, unnecessarily (re)directing their attention, and their mental model can be challenged by wrongly applied spatial patterns, or inconsistent motion.
+
+    Shortening Perceived Loading Times
+        - Loading screens for example can be perceived to be quicker by the user if there are animations, whether or not funny or celebratory.
+
+    It is important for UX designers to have understanding of motion design, develop a feeling for how and where to apply it based on core principles/guidelines, and especially when not to apply it.
