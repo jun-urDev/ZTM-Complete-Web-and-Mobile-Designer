@@ -1,0 +1,76 @@
+Better UX Through Microinteractions
+    Microinteractions
+        - are single interactive moments in a product that enhance the workflow and make a product more enjoyable.
+        - are individual moments in the product designed to accomplish a single task while enhancing the natural product flow.
+
+    Benefits of Microinteractions:
+        - Creating a positive emotional effect on the user due to smoother UI interactions
+        - Providing immediate feedback to the user based on actions they’ve taken
+        - Guiding the user through an app in a more fluid, intuitive way
+        - Encouraging users to interact with an app by responding to a notification or when sharing content
+        - Preventing user errors
+        - Microinteractions can help communicate the tone of your brand
+
+    Microinteraction Design Best Practices
+        a. Identify and Understand the User’s Problem
+            - The best way to understand what the user needs is to conduct surveys or interviews, or observe behavior through user research.
+
+        b. Keep Microinteractions Natural
+            - avoid strange animations that take too long to load or may distract the user.
+            - create designs that seamlessly flow with the product. Subtlety is key in microinteractions.
+
+        c. Test and Iterate Findings from User Testing
+            - user testing and iterative design is a simple way to reduce usability flaws before the product launch.
+
+        d. Follow the Structure of Microinteractions
+            - According to Dan Saffer, a Sr. Staff Product Designer at Twitter and the author of “Microinteractions: Designing with Details,”
+
+            4 parts of a microinteraction:
+                1. Trigger — A trigger initiates the microinteractions. One type of trigger is a toggle switch that turns a functionality on and off.
+                2. Rules — A rule determines how a microinteraction responds to a trigger and defines what happens during the interaction. For example, a flashlight app uses a button as the trigger that turns the light on and off.
+                3. Feedback — Feedback tells the user what is happening during the microinteraction. An example of feedback is a signup form with inline validation—a border color turns green if the field is filled in correctly, and turns red if something is incorrect. This way the user instantly knows something is right or wrong.
+                4. Loops and Modes — Loops and modes define the microinteraction’s meta-rules and how the microinteraction changes when used repeatedly. For example, in eCommerce, a “Buy it now” button might change to “Buy another” when the user has purchased the item before.
+
+    Deconstructing Microinteraction Design
+        - The process of designing a microinteraction is the same as for any design task: identifying the user pain point and fixing it.
+
+
+How to Use Microinteractions
+    What is a microinteraction?
+        - According to Dan Saffer, author of the highly-respected book: Microinteractions: Designing with Details, a microinteraction is:
+            “A contained product moment that revolves around a single use case or task.”
+
+    Microinteractions – common uses
+        1. Scrolling
+        2. Loading
+        3. Downloading
+        4. Calls to action
+        5. Notifications
+        6. Swiping
+        7. Switches
+        8. Hovering over something
+        9. Highlighting
+        10. When connecting devices
+
+    Examples of effective microinteractions
+        1. Social Share
+        2. Typing…
+        3. Downloading
+        4. Pull to refresh
+        5. Swipe
+
+    Creating microinteractions – 5 top tips:
+        1. Make them functional
+            - First thing’s first, microinteractions must have a purpose. After all, they’re supposed to encourage users to interact with a certain part of your website – so make them functional.
+        2. Keep it simple
+            - They’re called microinteractions for a reason. They should be short and sweet. Microinteractions are there to improve your UI and make everything look and feel cleaner, so keeping them simple is key.
+        3. Follow the structure
+            - When it comes to microinteractions, Dan Saffer knows his stuff. So make sure that your microinteractions follow his 4 part structure. Remember: Trigger > Rules > Feedback > Loops & Modes.
+        4. Think about longevity
+            - One of the key things that we’ve mentioned time and time again is that microinteractions are supposed to feel so natural that users don’t even notice them most of the time. And if they do, it should be because they’ve had a pleasant experience, not because they’re fed up of seeing a distracting or over-elaborate animation.
+        5. Experiment and test
+            - As with anything that you’re rolling out to the public, microinteractions need to be tested and improved upon. Make sure you gather lots of user feedback from your microinteractions, and experiment with different ways of doing things.
+
+Figmotion
+    - Figmotion is an animation tool built right in Figma.
+    - Figmotion makes the animation hand-off to developers more manageable as well as it is built with web technologies in mind.
